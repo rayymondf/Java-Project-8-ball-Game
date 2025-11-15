@@ -1,6 +1,5 @@
 //Raymond Fang
 //June 10, 2025
-//ICS4U
 //GamePanel class for my pool game
 
 package cpt;
