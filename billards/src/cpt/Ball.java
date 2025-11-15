@@ -1,6 +1,5 @@
 //Raymond Fang
 //June 10, 2025
-//ICS4U
 //Ball class for my pool game
 package cpt;
 
@@ -39,4 +38,5 @@ class Ball {
         // Draw oval with diameter = radius*2 (Swing draws from top-left with width/height)
         g2d.fillOval((int)(x), (int)(y), radius*2, radius*2);
     }
+
 }
