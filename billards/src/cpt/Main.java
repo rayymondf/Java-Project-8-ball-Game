@@ -1,6 +1,5 @@
 //Raymond Fang
 //June 10, 2025
-//ICS4U
 //Main class for my pool game
 
 package cpt;
@@ -39,4 +38,5 @@ public class Main {
     public static void main(String[] args) {
         new Main(); // Create and show the game
     }
+
 }
