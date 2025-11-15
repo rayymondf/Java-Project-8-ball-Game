@@ -1,6 +1,5 @@
 //Raymond Fang
 //June 10, 2025
-//ICS4U
 //GameMenu class for my pool game
 
 package cpt;
@@ -77,4 +76,5 @@ public class GameMenu extends JPanel implements ActionListener {
             gamePanel.requestFocusInWindow(); // Ensure game panel receives keyboard input
         }
     }
+
 }
